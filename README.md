@@ -4,8 +4,7 @@
 
 ### 1)Load the Dataset:
 
-Replace "combined_UNSW_NB15.csv" with the file name of your combined dataset.
-Use pd.read_csv() to load it into a pandas DataFrame.
+Use pd.read_csv() to load the data file(csv file) into a pandas DataFrame.
 
 Explore the Dataset:
 
